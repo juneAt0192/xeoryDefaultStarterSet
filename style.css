@@ -1,0 +1,12 @@
+@charset "UTF-8";
+/*
+Theme Name: xeory_default
+Theme URI: http://xeory.jp/
+Description: Xeory　を元にイチから作成するためのテーマ
+Author: バズ部
+Author URI: http://bazubu.com/
+Version: 0.1.9
+*/
+/* all display
+-------------------------------------------------- */
+@import url("css/common.css");/* gulp関係のファイルを反映するはず */
